@@ -1,8 +1,6 @@
         
 # Predicting Cerebral Stroke Risk Using Machine Learning
 
-# Predicting Cerebral Stroke Risk Using Machine Learning
-
 ## 📌 Project Overview
 This project aims to develop a machine learning model to predict the risk of cerebral stroke using health and lifestyle data. By leveraging structured datasets and advanced classification algorithms, the goal is to enhance early detection, improve patient outcomes, and reduce healthcare costs.
 
