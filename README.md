@@ -1,6 +1,8 @@
         
 # Predicting Cerebral Stroke Risk Using Machine Learning
 
+# Predicting Cerebral Stroke Risk Using Machine Learning
+
 ## 📌 Project Overview
 This project aims to develop a machine learning model to predict the risk of cerebral stroke using health and lifestyle data. By leveraging structured datasets and advanced classification algorithms, the goal is to enhance early detection, improve patient outcomes, and reduce healthcare costs.
 
@@ -66,4 +68,21 @@ Stroke is a leading cause of disability and mortality worldwide. Traditional ris
 
 ## 📊 Business Insights
 - **Early Detection & Prevention**: Identifies high-risk individuals before symptoms appear.
-- **Improved Healthcare Decision-Making**: Helps prioritize high-ris
+- **Improved Healthcare Decision-Making**: Helps prioritize high-risk patients for early intervention.
+- **Cost Reduction in Healthcare**: Reduces hospitalizations and long-term rehabilitation costs.
+- **Integration with Wearable Tech**: Potential to link with smartwatches for real-time monitoring.
+
+## 🔮 Future Scope
+- Expanding model capabilities to predict other cardiovascular diseases.
+- Enhancing real-time monitoring with IoT devices and wearable technology.
+- Integrating deep learning for improved feature extraction and classification.
+
+## 🤝 Contributors
+- **Prateek Alur**
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 🎯 Contact
+For any queries or collaborations, feel free to reach out to **Prateek Alur** email at **[alurprateek2@gmail.com]**.
+
