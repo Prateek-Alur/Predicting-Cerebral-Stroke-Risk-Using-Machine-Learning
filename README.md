@@ -78,9 +78,6 @@ Stroke is a leading cause of disability and mortality worldwide. Traditional ris
 ## 🤝 Contributors
 - **Prateek Alur**
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ## 🎯 Contact
 For any queries or collaborations, feel free to reach out to **Prateek Alur** email at **[alurprateek2@gmail.com]**.
 
