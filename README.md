@@ -46,7 +46,7 @@ Stroke is a leading cause of disability and mortality worldwide. Traditional ris
    - Evaluated models using accuracy, precision, recall, F1-score, and AUROC curve.
    - Focused on maximizing recall to reduce false negatives.
 5. **Hyperparameter Tuning**
-   - Implemented Grid Search and Random Search for optimal performance.
+   - Implemented Hyperparameter tuning in decision tree with adaboost for optimal performance.
    - Achieved best results with Decision Tree + AdaBoost.
 6. **Deployment**
    - Deployed on AWS using EC2.
